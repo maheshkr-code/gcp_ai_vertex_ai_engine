@@ -22,3 +22,20 @@
 <img width="893" height="544" alt="image" src="https://github.com/user-attachments/assets/f4aad9af-846a-4c26-bfbb-b0b9217717e0" />
 
 <img width="811" height="355" alt="image" src="https://github.com/user-attachments/assets/4d19712e-a788-486c-a0d9-81252c700206" />
+
+<img width="1025" height="573" alt="Screenshot 2026-02-14 12 56 54 PM" src="https://github.com/user-attachments/assets/1af207d3-5672-4750-af7d-146133f2ff8b" />
+
+<img width="1025" height="573" alt="Screenshot 2026-02-14 12 57 04 PM" src="https://github.com/user-attachments/assets/bfc1ad7b-a177-4cf3-a8b6-078afef02082" />
+
+<img width="1025" height="573" alt="Screenshot 2026-02-14 12 58 00 PM" src="https://github.com/user-attachments/assets/fa983b0f-70cc-4529-b5eb-9ee27a9d3573" />
+
+<img width="1404" height="791" alt="Screenshot 2026-02-14 1 00 20 PM" src="https://github.com/user-attachments/assets/2727feab-1f19-464d-82b5-f8e21cee3ae6" />
+
+<img width="1405" height="796" alt="Screenshot 2026-02-14 1 00 32 PM" src="https://github.com/user-attachments/assets/b03bf36e-35cc-48b6-91e5-bf98bc0f9db2" />
+
+<img width="1405" height="792" alt="Screenshot 2026-02-14 1 00 57 PM" src="https://github.com/user-attachments/assets/3a625a36-740b-487e-9268-08651bb2d3a3" />
+
+<img width="1408" height="792" alt="Screenshot 2026-02-14 1 02 54 PM" src="https://github.com/user-attachments/assets/dcf78a06-81e8-4701-9eba-dd2ad448587b" />
+
+<img width="1396" height="784" alt="Screenshot 2026-02-14 1 03 07 PM" src="https://github.com/user-attachments/assets/b601b9ed-f6e3-4348-86e1-6ae8ad16d401" />
+
